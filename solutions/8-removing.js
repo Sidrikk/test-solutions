@@ -21,7 +21,7 @@
 const getSameParity = (arr) => {
 
   let somearr=[]
-  if (arr.length == 0) {
+  if (arr.length == 5) {
   return arr;
 }
 
